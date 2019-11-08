@@ -14,7 +14,7 @@
     <?php include "includes/header.php"; ?>
     <main class="board">
         <div class="card mt-5">
-            <img id="cardimg" src="img/teste.png" alt="Card image cap">
+            <img id="cardimg" src="views/img/teste.png" alt="Card image cap">
             <div class="card-body">
                 <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet rerum modi, fuga tempora officiis nam nostrum aut fugiat vitae, dolore illo itaque porro dignissimos sapiente quidem rem excepturi perferendis distinctio.</p>
             </div>

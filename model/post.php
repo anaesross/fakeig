@@ -1,4 +1,6 @@
 <?php
+
+include("model/connection.php");
     class Post extends Conexao{
        
 
